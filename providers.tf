@@ -7,6 +7,7 @@ terraform {
     }
   }
 }
+#changes to push
 
 # Configure the Microsoft Azure Provider
 provider "azurerm" {
